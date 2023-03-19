@@ -1,7 +1,7 @@
 # <Prework Study Guide>
 
 ## Description
-    This website is an exercise in coding that will prepare us as students to learn the basics of coding and prepare us for our classes. I am excited for the possibility of learning and discovering how computers function. And I am excited to be capable of understanding computers so that I can take control myself. My goals are to further my own career path and become a software developer. Perhaps even a web designer. This website is the first complete project I have made as a student. And even though it was a guided effort, I am expecting the tools I was given here will help me to excel going forward.
+This website is an exercise in coding that will prepare us as students to learn the basics of coding and prepare us for our classes. I am excited for the possibility of learning and discovering how computers function. And I am excited to be capable of understanding computers so that I can take control myself. My goals are to further my own career path and become a software developer. Perhaps even a web designer. This website is the first complete project I have made as a student. And even though it was a guided effort, I am expecting the tools I was given here will help me to excel going forward.
 
 
 - What was your motivation?
