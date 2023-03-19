@@ -1,7 +1,7 @@
 # <Prework Study Guide>
 
 ## Description
-    This website is an exercise in coding that will prepare us as students to learn the basics of coding and prepare us for our classes. I am excited for the possibility of learning and discovering how computers function. And I am excited to be capable of understanding computers so that I can take control myself. My goals are to further my own career path and become a software developer. Perhaps even a web designer. This website is the first complete project I have made as a student. And even though it was a guided effort, I am expecting the tools I was given here will help me to excel going forward.
+This website is an exercise in coding that will prepare us as students to learn the basics of coding and prepare us for our classes. I am excited for the possibility of learning and discovering how computers function. And I am excited to be capable of understanding computers so that I can take control myself. My goals are to further my own career path and become a software developer. Perhaps even a web designer. This website is the first complete project I have made as a student. And even though it was a guided effort, I am expecting the tools I was given here will help me to excel going forward.
 
 
 - What was your motivation?
@@ -27,39 +27,19 @@ N/A
 ## Usage
 If I were to get the most use out of this website, I would try and treat it as a basic entry tool to understanding coding. Firstly, there are some basic notes describing what each of the topics can do. Four tools are described briefly here: HTML, CSS, JavaScript, and Git. But there's a bit more behind the surface.
 
+If you are on a Windows PC, while on the website press and hold the following keys on your keyboard: Control + Shift + I. Or if you are on an Apple Macintosh, press the following keys: Command + Shift + I.
 
-If you are on a Windows PC, while on the website press and hold the following keys on your keyboard: Control + Shift + I. Or if you are on an Apple Macintosh, press the following keys: Command + Shift + I
+That should bring up the Inspect menu on the right-hand side of your screen. This menu might look confusing and scary at first, but that's alright! It shows everything that's running behind-the-scenes for the website while you browse. And is actually accessible on every website you go to while on the web. If you are on a chrome-based browser (which most browsers are besides Firefox), then you should be able to follow along to see the code in action.
 
+Don't worry about messing anything up, if you simply refresh the page then the website should go back to its default setting. I'll give you some instructions on some things the code can do.
 
-That should bring up the Inspect menu on the right-hand side of your screen. This menu might look confusing and scary at first, but that's alright! It shows everything that's running behind-the-scenes for the website while you browse. And is actually accessible on every website you go to while on the web.
+Elements: Click on the elements tab of the Insepct menu we just brought up. There should be some blue text written there. Take a look at the third line from the top, the one that reads <head>...</head>. Go ahead and double-click on that line. Some more text should appear. This text defines what you can see on the web page. Go to the last line of the header section with the text, <title>Prework Study Guide</title>. You should be able to see that the words, "Prework Study Guide" are in white. You should be able to click on and highlight that text and then type to change it. Go ahead and change it to whatever you like, I suggest typing "Hello World!". And once that is done go ahead and click on the web page itself again to lock the change in. What changed? Did you see it? If not, take a look at tab for this webpage on top of the browser. It should reflect what you typed in the title! This is how HTML is most often used. It informs the website what information should be displayed at any given time.
 
+Console: Now go to the Console tab of the Element menu. I've set it up so that it contains a function. It defines the topics we learn through the class prework, as well as gives a suggestion for what topic we should start studying. If you refresh the page a few times, you'll notice that the last line can change. This is because I have set it to select one of the four topics at random. These functions are what JavaScript is often used for. You can see them in action as you refresh the page with the Console open.
 
-If you are on a Chrome-based browser (which includes most browsers other than Firefox), you should be able to see a tab on top of the Inspect menu that is labeled "Elements". Navigate to that tab if you aren't there already by clicking it with your mouse. This should drop a short bit of text in blue. That blue text actually controls what you can see on the page! Let me demonstrate how it might work. If you're using a Chrome-based browser you can follow along easily.
+Sources: Now go to the Sources tab of the Element menu. You should see a folder called "assets". Go ahead and click it to open it. And a new file called "style.css" should appear. Click on "style.css" to open it. You should be able to see some code appear just to the right. Now take a look at line 10. You should have noticed immediately when opening the website that the site itself has a blue header and footer. But not everyone may like blue as a color for the header and may prefer something else. You may prefer red, or green, or perhaps a different shade of blue. Go ahead and click on the small box to the left of the word blue. This should open the color picker. Why don't you pick your favorite color? If you select any one of the colors, you should see an immediate change on the website. The color will change to what you select! This is what CSS is typicall used for, it is used to give the website its sense of style. Feel free to pick your favorite color.
 
-
-Find and double-click on the part of the code that says <head>, this should be the third line from the top of the Inspect Elements tab.
-
-
-A list of new information should drop down from there that shows bits of how the header is coded.
-
-
-Find the element line that says <title>Prework Study Guide</title>, it should be near the bottom of the header section, just before </head>
-
-
-The words "Prework Study Guide" are in white. If you'd like you can change what those words say! I might suggest typing, "Hello World!" in to replace those words. Then simply click on the screen.
-
-
-Did you notice the change? If not at first, that's okay. But I'll give you a hint: check what your tab is titled across the top of the web browser. It should repeat what words you typed into the element!
-
-
-There are other things you can change and alter on this website through this feature. But here's one more thing that can be a bit more fun. The header and footer of this website are both blue. And blue is a good enough color for me, but I bet some people don't like the color blue and may even prefer red or green. Or maybe they like blue, but not THAT shade of blue. That's okay, I'll help you out.
-
-
-At the top of the Inspect Menu you'll see some other tabs. Go to the one that says "Sources" by clicking on it. You'll see some computer files and other things there. But you should look at the one that says "Assets". Go ahead and double-click Assets, then click on the file that says, "Style.CSS". CSS is what we use to create style for the websites we make. Just like the color blue that's there. In fact on line 10 of this file, you should be able to see some text saying, "background color" with the color blue to the right of it. Hover your mouse over it and you should be able to change the color of the header/footer in real time. Feel free to pick your favorite! And feel free to explore what else you can change on the website as well.
-
-
-But what if I break something by accident? Don't worry, the source code of the website won't change. Just refresh the page by hitting F5 on your keyboard or by finding the option on your browser and it'll all go back to normal. I've actually added a function you might notice in the Inspect Menu using JavaScript. JavaScript is what gives code some functionality. And there's a small function visible in the tab that says "Console". Click it and you'll see some text that's hopefully a lot less confusing than what you saw earlier in the elements. In that section you'll see a question asking, "What should we study?" on the second to last line of the Console. And the last line is the answer! If you refresh the page, it's designed to give you a random answer to study the topics you see above.
-
+This demonstration should give you some idea of how code effects the website. And can give you a quick glance of how coding works in website design. Hopefully this guide was easy to follow along
 
 ## Credits
 N/A
